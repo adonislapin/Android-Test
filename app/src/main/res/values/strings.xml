@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android Test</string>
+
+    <string name="principal.ingrese">Ingrese texto aquí</string>
+    <string name="principal.busqueda">BUSCAR</string>
+    <string name="title_activity_detail">DetailActivity</string>
 </resources>
